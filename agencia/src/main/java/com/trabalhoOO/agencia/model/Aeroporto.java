@@ -9,6 +9,7 @@ public class Aeroporto {
 	
 	private String nome;
 	private String endereço;
+	private String oioi;
 	
 	public int getId() {
 		return id;
@@ -28,7 +29,6 @@ public class Aeroporto {
 	public void setEndereço(String endereço) {
 		this.endereço = endereço;
 	}
-	
 	
 
 }
